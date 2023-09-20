@@ -11,4 +11,3 @@
 - Autentikasi email pengguna.
 - Pencarian produk.
 
-Website dapat diakses pada [link berikut](https://nusantara-store-fe-fadillaarn.vercel.app)
